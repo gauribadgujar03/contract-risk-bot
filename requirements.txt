@@ -1,6 +1,6 @@
 streamlit
-spacy
-nltk
+# spacy
+# nltk
 python-docx
 pdfplumber
 langdetect
