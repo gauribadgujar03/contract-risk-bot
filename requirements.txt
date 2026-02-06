@@ -1,0 +1,7 @@
+streamlit
+spacy
+nltk
+python-docx
+pdfplumber
+langdetect
+openai
